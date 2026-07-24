@@ -9,7 +9,7 @@ I'm Jan, 28, based in Hamburg, Germany 🇩🇪
 
 ## 💡 Traits
 
-- 🔧 Backend-focused engineer
+- 🔧 Backend-focused developer
 - ⚡ Fast at picking up new tools and domains
 - 📊 Skilled in data collection, organization & standardization
 - 🔄 Experienced in designing and delivering end-to-end workflows
