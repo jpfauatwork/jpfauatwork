@@ -1,6 +1,5 @@
 # Moin! 👋
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?logo=probot&logoColor=white)
 ![Hamburg](https://img.shields.io/badge/⚓_Hamburg-DA291C?logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-pfau/)
 [![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/user/Holm-Seppenser)
