@@ -43,8 +43,9 @@ I'm Jan, 28, based in Hamburg, Germany 🇩🇪
 - **[Holm-Seppensen.info](https://holm-seppensen.info)**
   Growing local archive about a district in the city of
   Buchholz in der Nordheide
-- **[Baltop.net](https://baltop.net)**
-  Simple collection and visualization of player uptimes
+- **[OSM-SuperTools](https://github.com/jpfauatwork/OSM-SuperTools)**
+  Firefox extension that adds productivity tools to the
+  OpenStreetMap iD editor
 - **[routecard](https://github.com/jpfauatwork/routecard)**
   GPX on map to PNG export for sharing on social media —
   replacement for abandoned Strava Premium feature
